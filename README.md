@@ -3,7 +3,7 @@
 </h1>
 
 
-<img align="right" height="200" alt="GIF" src="https://github.com/destroylord/form-login/blob/master/dist/img/pacote-fullstack-danki-code.gif" />
+<img align="right" height="200" alt="GIF" src="https://tenor.com/search/programming-gifs" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=riskadwinuraini&show_icons=true&theme=dracula" width="400">
 
