@@ -3,7 +3,7 @@
 </h1>
 
 
-<img align="right" width= "500" height="200" alt="GIF" src="https://github.com/destroylord/form-login/blob/master/dist/img/new-game-ahagon-umiko-programming.gif" />
+<img align="right" width= "250" height="200" alt="GIF" src="https://github.com/destroylord/form-login/blob/master/dist/img/new-game-ahagon-umiko-programming.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=riskadwinuraini&show_icons=true&theme=dracula" width="400">
 
