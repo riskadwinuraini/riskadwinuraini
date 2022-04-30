@@ -12,7 +12,7 @@
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Laravel
 - 📫 You can reach me at riskadwi583@gmail.com
-- My lovely is @destroylord
+- 💖 My lovely is [@destroylord](https://github.com/destroylord)
 
 
 
