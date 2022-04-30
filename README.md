@@ -1,5 +1,5 @@
 <h1 style="center">
-    Hi there 👋 I'm Riska 👨‍💻
+    Hi there 👋 I'm Riska 👩‍💻
 </h1>
 
 
@@ -12,6 +12,7 @@
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Laravel
 - 📫 You can reach me at riskadwi583@gmail.com
+- My lovely is @destroylord
 
 
 
